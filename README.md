@@ -1,7 +1,8 @@
 # App builds
 
-Static download page for prototype builds of the client app. Deployed to Vercel; the APK is
-served with `Content-Disposition: attachment`. `/latest.apk` always points at the newest build
-(see `vercel.json`).
+Download page and prototype builds of the client app.
+
+- Landing page (GitHub Pages): https://abdulrahim-tero.github.io/swiss-vet-clinic-builds/
+- APK files are attached to GitHub Releases; the page links to the latest one.
 
 Builds are debug-signed prototypes with demo data. Not for the Play Store.
